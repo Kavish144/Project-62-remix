@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+    }
+img {
+       height: 200px;
+    width: 200px;
+   }
+#myNavBar {
+    float: left;
+    position: sticky;
+    background-color: black;
+    text-decoration-color: white;
+}
